@@ -1,0 +1,1 @@
+Arduioni part of meteostation, reads data from DTH 22 sensor and sends them to thing speak api.
